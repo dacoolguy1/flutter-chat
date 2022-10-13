@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018118272929",
+    "project_id": "flash-chat-a1d19",
+    "storage_bucket": "flash-chat-a1d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018118272929:android:d1e1a238bc4d9da7247de0",
+        "android_client_info": {
+          "package_name": "com.legittechs.flutter_chart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018118272929-8beo3nreu4hj9lc803tfifpj1jj7a7t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLodGFwgkRIiacl30eApXwxISWATJ5ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018118272929-8beo3nreu4hj9lc803tfifpj1jj7a7t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
